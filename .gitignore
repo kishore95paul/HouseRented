@@ -1,0 +1,20 @@
+# Ignore .env file
+.env
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore database files
+db.sqlite3
+
+# Ignore Django migrations
+*/migrations/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore logs and temp files
+*.log
+*.tmp
